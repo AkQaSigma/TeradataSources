@@ -1,0 +1,8 @@
+SessionID,Category,Grammar_Element,HighLevelObject,FileType,Total_Object_Count,Count_Converted_LOC,Count_Not_Converted_LOC,Count_Conversion_Errors,Count_Parsing_Errors
+df9c7cc2-3850-47d5-b54f-12ca3002ad3f,Data Manipulation Language Statements,COMMIT,Not specified,SQL,2,2,0,0,0
+df9c7cc2-3850-47d5-b54f-12ca3002ad3f,Data Definition Statements,CREATE / REPLACE VIEW,CREATE / REPLACE VIEW,SQL,1,4,0,0,0
+df9c7cc2-3850-47d5-b54f-12ca3002ad3f,Table Statements,CREATE TABLE,CREATE TABLE,SQL,1,7,2,0,1
+df9c7cc2-3850-47d5-b54f-12ca3002ad3f,"SELECT statement syntax, options, clauses, modifiers",FROM,CREATE / REPLACE VIEW,SQL,1,1,0,0,0
+df9c7cc2-3850-47d5-b54f-12ca3002ad3f,Data Manipulation Language Statement,INSERT,INSERT,SQL,4,4,0,0,0
+df9c7cc2-3850-47d5-b54f-12ca3002ad3f,Data Type,INTEGER,CREATE TABLE,SQL,1,1,0,0,0
+df9c7cc2-3850-47d5-b54f-12ca3002ad3f,"SELECT statement syntax, options, clauses, modifiers",SELECT,CREATE / REPLACE VIEW,SQL,1,2,0,0,0
