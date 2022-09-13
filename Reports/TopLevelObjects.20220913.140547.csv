@@ -1,3 +1,0 @@
-PartitionKey,FileType,ObjectName,HighLevelObject,ObjectDb,FileName,LineNumber,LinesOfCode,HighestEWISeverity,ConversionStatus,EWIs,UDFsUsed,NameOfUDFFiles,CharConversionPercentage,LoCConversionPercentage,EWIsNumber,ObjectDB,CharacterCount
-0126a8ba-5106-4f38-bf2b-de20739db52e,SQL,DemoUsers,CREATE TABLE,Undefined DB name,CLI_T12/CLI_T12.sql,2,9,Critical,Partially Converted,MSCEWI1001,,,--,77.78%,1,,
-0126a8ba-5106-4f38-bf2b-de20739db52e,SQL,View_DemoUsers,CREATE / REPLACE VIEW,Undefined DB name,CLI_T12/CLI_T12.sql,22,4,,Fully Converted,,,,--,100%,0,,

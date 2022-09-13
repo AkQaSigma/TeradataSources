@@ -1,5 +1,0 @@
-PartitionKey,FileType,ObjectName,HighLevelObject,FileName,LineNumber,LinesOfCode,HighestEWISeverity,ConversionStatus,EWIs,UDFsUsed,CharConversionPercentage,LoCConversionPercentage,EWIsNumber,ObjectDB,CharacterCount
-0126a8ba-5106-4f38-bf2b-de20739db52e,SQL,2,INSERT,CLI_T12/CLI_T12.sql,13,1,,Fully Converted,,,--,100%,0,,
-0126a8ba-5106-4f38-bf2b-de20739db52e,SQL,3,INSERT,CLI_T12/CLI_T12.sql,15,1,,Fully Converted,,,--,100%,0,,
-0126a8ba-5106-4f38-bf2b-de20739db52e,SQL,4,INSERT,CLI_T12/CLI_T12.sql,17,1,,Fully Converted,,,--,100%,0,,
-0126a8ba-5106-4f38-bf2b-de20739db52e,SQL,5,INSERT,CLI_T12/CLI_T12.sql,19,1,,Fully Converted,,,--,100%,0,,
